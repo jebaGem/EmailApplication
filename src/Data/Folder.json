@@ -1,0 +1,16 @@
+{
+    "values": [
+        {
+            "count": 2,
+            "id": "inbox",
+            "name": "Inbox",
+            "unread": 1
+        },
+        {
+            "count": 1,
+            "id": "trash",
+            "name": "Trash",
+            "unread": 0
+        }
+    ]
+}
